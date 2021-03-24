@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  app:
+    image: codeeducation
+    build: .
+    container_name: codeeducation
+    volumes:
+      - "${PWD}:/go/"
