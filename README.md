@@ -19,4 +19,4 @@ docker-compose up
 ```
 
 ## DockerHub
-Docker built image: [Docker Image](https://hub.docker.com/r/brunofc/codeeducation).
+Built Docker Image: [Docker Image](https://hub.docker.com/r/brunofc/codeeducation).
